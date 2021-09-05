@@ -1,0 +1,36 @@
+body {
+  background:lightsteelblue;
+}
+
+.App {
+  background: steelblue;
+  min-height: 500px;
+  width:500px;
+  margin: 40px auto;
+}
+
+#phone-form input {
+  background:lightsteelblue;
+  border: 0;
+  width: 280px;
+  height: 70px;
+  padding: 0 20px;
+  margin: 20px;
+  font-size: 20px;
+  border-radius: 10px;
+
+}
+
+#phone-form button {
+  background:darkseagreen;
+  border: 1px solid darkseagreen;
+  color:white;
+  width: 120px;
+  height: 70px;
+  padding: 0 20px;
+  font-size: 20px;
+  border-radius: 10px;
+  cursor: pointer ;
+
+
+}
